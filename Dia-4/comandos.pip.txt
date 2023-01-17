@@ -1,0 +1,3 @@
+pip freeze > requirements.tx -> El ouput( lo que muesta) el comando lo guadara en el archivo 'requirements.txt' si
+no existe el archivo lo crara, caso contrario lo sobreescribira
+pip install -r requirements.txt -> instalara todas las librerias declaras en el archivo con su version
